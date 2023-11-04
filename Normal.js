@@ -7,3 +7,7 @@ let a = {
 // console.log(a.Name)
 a['Name'] = 'Rix';
 console.log(a)
+
+for (let i in a){
+    console.log(i)
+}
