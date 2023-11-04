@@ -18,3 +18,4 @@ for( let i=0;i<b.length;i++){
 }
 
 console.log(Arr)
+console.log(temp);
